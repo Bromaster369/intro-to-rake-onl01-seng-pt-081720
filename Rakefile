@@ -1,4 +1,4 @@
-task :enviroment do 
+task :environment do 
   require_relative 
 './config/enviroment'
 end 
