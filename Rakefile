@@ -1,6 +1,6 @@
 task :environment do 
   require_relative 
-'./config/enviroment'
+'./config/environment'
 end 
 
 
