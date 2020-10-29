@@ -10,7 +10,3 @@ namespace :greeting do
   end
 end 
 
-task :enviroment do 
-  require_relative 
-'./config/enviroment'
-end 
