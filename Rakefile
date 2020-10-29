@@ -9,3 +9,8 @@ namespace :greeting do
     puts "hola de Rake!"
   end
 end 
+
+task :enviroment do 
+  require_relative 
+'./config/enviroment'
+end 
